@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a microbiologist:microscope: ,bioinformatician:computer: and a phage/biotech lover :dna:
+I am a microbiologist :microscope: ,bioinformatician :computer: and a phage/biotech lover :dna:
 
 * :seedling: working on viral taxonomy | metagenomics 
