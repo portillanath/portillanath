@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a microbiologist :microscope: and bioinformatician :dna::computer:.
+I am a microbiologist :microscope: and bioinformatician :dna::computer:
+:seedling: working on viral taxonomy | metagenomics 
